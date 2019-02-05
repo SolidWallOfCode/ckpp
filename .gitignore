@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+/include/
+/lib/
+/bin/
+/lib64/
+/share/
